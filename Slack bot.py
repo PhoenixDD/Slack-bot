@@ -1,3 +1,18 @@
+'''/****************************************************************************************************************************************************************
+  Author:
+  Dhairya Dhondiyal
+
+  Description:
+  A bot created on python using Amazon AWS EC2 for conectivity, that replies on slack to certain commands if user is unavailable
+  and uses slack api and weather api to give answers from slack and provide weather information for any question or location
+  respectively.
+
+  Disclaimer:
+  Copyright (C) - All Rights Reserved
+  Unauthorized copying of this file, via any medium is strictly prohibited
+  Proprietary and confidential
+  Written by Dhairya Dhondiyal, March 2017
+****************************************************************************************************************************************************************/'''
 import os
 import json
 import requests
